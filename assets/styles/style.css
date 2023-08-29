@@ -1,0 +1,112 @@
+* {
+    margin: 0px;
+    font-family: 'Inter', sans-serif;
+}
+
+#header-page {
+    background: #303030;
+    height: 250px;
+}
+
+#header-page-div {
+    padding-left: 40px;
+    padding-top: 120px;
+    color: white;
+}
+
+#title-page {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+#subtitle-page {
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#section1-div {
+    background-color: #EAECE5;
+    display: flex;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+.section1-p {
+    margin-left: 15%;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+
+.section1-b {
+    font-size: 35px;
+}
+
+#section2 {
+    display: flex;
+    grid-auto-flow: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+#section2-div {
+    padding-right: 10rem;
+}
+
+#section2-title {
+    font-size: 30px;
+    margin-bottom: 30px;
+    text-align: justify;
+
+}
+
+#section2-text {
+    text-align: justify;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+/* aqui vai formulario */
+
+#formulario {
+    background-color: #303030;
+    text-align: center;
+    padding-top: 25px;
+}
+
+#titulo-formulario {
+    color: white;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+input {
+    padding-left: 20px;
+    margin-bottom: 40px;
+    border: 0px;
+    border-radius: 5px;
+    height: 35px;
+    width: 20%;
+}
+
+button {
+    background: #C07212;
+    height: 40px;
+    width: 220px;
+    color: #EAECE5;
+    border: 0px;
+    border-radius: 5px;
+    margin-bottom: 40px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #a56e07;
+    color: #FFFFFF;
+    transform: translateY(-5px);
+    box-shadow: 0px 15px 20px #05103081;
+    transition-duration: 0.5s;
+}
