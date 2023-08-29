@@ -101,6 +101,7 @@ button {
     margin-bottom: 40px;
     font-weight: bolder;
     cursor: pointer;
+    font-family: 'Raleway', sans-serif;
 }
 
 button:hover {
