@@ -18,7 +18,7 @@ Em seguida, abra o arquivo `index.html` no seu navegador preferido para visualiz
 [Site](https://comfy-wisp-ff6c73.netlify.app/)
 
 ## Link da Planilha de Registro da Informação
-[Planilha] (https://docs.google.com/spreadsheets/d/1AbVihgJW42Befg8K3U9BNi7SXpYUo4VbKIPrYPyS2QU/edit?usp=sharing)
+[Planilha](https://docs.google.com/spreadsheets/d/1AbVihgJW42Befg8K3U9BNi7SXpYUo4VbKIPrYPyS2QU/edit?usp=sharing)
 
 ## Autor
 
