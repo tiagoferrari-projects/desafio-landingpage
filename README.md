@@ -27,7 +27,3 @@ Em seguida, abra o arquivo `index.html` no seu navegador preferido para visualiz
 ## Contribuição
 
 Sinta-se à vontade para contribuir para este projeto, abrindo problemas (issues) ou enviando pull requests.
-
-## Licença
-
-[MIT](https://choosealicense.com/licenses/mit/)
